@@ -41,6 +41,8 @@ web site</a>:
 
 When loading the dataset into R, please consider the following:
 
+* Assumption: The text file containing the data is in the current folder and is named: household_power_consumption.txt
+
 * The dataset has 2,075,259 rows and 9 columns. First
 calculate a rough estimate of how much memory the dataset will require
 in memory before reading into R. Make sure your computer has enough
